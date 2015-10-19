@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Fileflirt</string>
+    <string name="action_settings">instellingen</string>
+
+    <!-- Main page -->
+    <string name="Logo">Logo</string>
+    <string name="Licence_plate">Kenteken</string>
+    <string name="Password">Wachtwoord</string>
+    <string name="Login">Inloggen</string>
+    <string name="Register">Registreren</string>
+    <string name="Close">Sluiten</string>
+    <string name="title_activity_register">Register</string>
+
+    <!-- Register -->
+    <string name="email">E-mailadres</string>
+    <string name="Mobile">Telefoonnummer</string>
+    <string name="ConfirmPass">Herhaal Wachtwoord</string>
+    <string name="sex">Geaardheid</string>
+    <string-array name="sex">
+        <item>Hetro</item>
+        <item>Biseksueel</item>
+        <item>Homoseksueel</item>
+    </string-array>
+    <string name="Relation">Relatie status</string>
+    <string-array name="Relation">
+        <item>Vrijgezel</item>
+        <item>Getrouwd</item>
+    </string-array>
+    <string name="Cancel">Terug</string>
+
+    <!-- start pagina -->
+    <string name="title_activity_startpage">Startpagina</string>
+    <string name="navigation_drawer_open">Open navigatie</string>
+    <string name="navigation_drawer_close">Sluit navigation</string>
+
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Stau Flirt</string>
+    <string name="action_settings">Einstellungen</string>
+
+    <!-- Main page -->
+    <string name="Logo">Logo</string>
+    <string name="Licence_plate">Nummernschild</string>
+    <string name="Password">Passwort</string>
+    <string name="Login">Einloggen</string>
+    <string name="Register">Registrieren</string>
+    <string name="Close">Abschliessen</string>
+
+    <!-- Register -->
+    <string name="email">E-Mail-Addresse</string>
+    <string name="Mobile">Mobiltelepnon</string>
+    <string name="ConfirmPass">Passwort bestätigen</string>
+    <string name="sex">Sexuelle Orientierung</string>
+    <string-array name="sex">
+        <item>Gerade</item>
+        <item>Bisexuell</item>
+        <item>Homosexuell</item>
+    </string-array>
+    <string name="Relation">Beziehung</string>
+    <string-array name="Relation">
+        <item>Junggeselle</item>
+        <item>Verheiratet</item>
+    </string-array>
+    <string name="Cancel">Zurück</string>
+
+    <!-- start pagina -->
+    <string name="title_activity_startpage">Startseite</string>
+    <string name="navigation_drawer_open">Offenen Navigation</string>
+    <string name="navigation_drawer_close">schließen Navigation</string>
+
+</resources>
